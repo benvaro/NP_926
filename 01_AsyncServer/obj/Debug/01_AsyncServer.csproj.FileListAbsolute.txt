@@ -1,0 +1,7 @@
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\bin\Debug\01_AsyncServer.exe.config
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\bin\Debug\01_AsyncServer.exe
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\bin\Debug\01_AsyncServer.pdb
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\obj\Debug\01_AsyncServer.csprojAssemblyReference.cache
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\obj\Debug\01_AsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\obj\Debug\01_AsyncServer.exe
+C:\Users\benva\source\repos\NP_926\01_AsyncServer\obj\Debug\01_AsyncServer.pdb
