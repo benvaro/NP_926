@@ -1,0 +1,7 @@
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\bin\Debug\02_AsyncClient.exe.config
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\bin\Debug\02_AsyncClient.exe
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\bin\Debug\02_AsyncClient.pdb
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\obj\Debug\02_AsyncClient.csprojAssemblyReference.cache
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\obj\Debug\02_AsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\obj\Debug\02_AsyncClient.exe
+C:\Users\benva\source\repos\NP_926\02_AsyncClient\obj\Debug\02_AsyncClient.pdb

@@ -22,6 +22,7 @@ namespace _02_AsyncClient
         static void Main(string[] args)
         {
             StartClient();
+            Console.ReadLine();
         }
 
         private static void StartClient()
@@ -37,9 +38,6 @@ namespace _02_AsyncClient
             catch (SocketException exception)
             {
                 Console.WriteLine(exception.Message);
-            }
-            finally
-            {
                 client.Close();
             }
         }
